@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarlandLajeunesse
 - 👀 I’m interested in NFT ERA COMMUNITY
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me n0g4inn0p4in@gmai.com
+- 📫 How to reach me n0g4inn0p4in@gmail.com
 
 <!---
 GarlandLajeunesse/GarlandLajeunesse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
